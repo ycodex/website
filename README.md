@@ -1,4 +1,3 @@
 # website
-Personal website
-Batman kinda themed . Built with the help of various sources
-www.karthik.epizy.com
+
+Batman kinda themed website . Check it out.
